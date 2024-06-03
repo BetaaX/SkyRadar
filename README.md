@@ -1,4 +1,4 @@
-SkyRadar
+# SkyRadar
 
 Este projeto se baseia em um desafio que vi no repositório: [Front-End Challenges by Felipe Fialho](https://github.com/felipefialho/frontend-challenges), desafio disponibilizado pela `1STi`, que consiste em integrar uma API para buscar informações do clima em tempo real.
 
